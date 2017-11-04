@@ -1,0 +1,6 @@
+myenv
+.env
+*.pyc
+*.swp
+db.sqlite3
+__pycache__db.sqlite3
