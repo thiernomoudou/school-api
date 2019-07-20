@@ -10,7 +10,7 @@ create and open a new folder
 Clone the repo
 
 ```
-git clone https://github.com/thiernomoudou/new-api.git
+git clone https://github.com/thiernomoudou/school-api.git
 
 ```
 
@@ -27,7 +27,7 @@ source yourVirtualenvName/bin/activate
 Enter the edu-platform folder
 
 ```
-cd new-api
+cd school-api
 ```
 
 Install dependencies and setup data
